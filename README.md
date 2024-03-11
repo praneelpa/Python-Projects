@@ -21,8 +21,7 @@ This repository aims to provide a wide range of coding projects to cater to deve
 
 ### Beginner Projects
 
-1. **Project 1**
-   - [Quiz Game](./Quiz Game - Beginner)
+1. **Quiz Game**
 
 2. **Project 2**
    - TBA
