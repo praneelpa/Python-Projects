@@ -23,28 +23,21 @@ This repository aims to provide a wide range of coding projects to cater to deve
 
 1. **Quiz Game**
 
-2. **Project 2**
-   - TBA
+2. **TBA**
 
-3. **Project 3**
-   - TBA
+3. **TBA**
 
-4. **Project 4**
-   - TBA
+4. **TBA**
 
 ### Advanced Projects
 
-1. **Project 5**
-   - TBA
+1. **TBA**
 
-2. **Project 6**
-   - TBA
+2. **TBA**
 
-3. **Project 7**
-   - TBA
+3. **TBA**
 
-4. **Project 8**
-   - TBA
+4. **TBA**
 
 ## Getting Started
 
