@@ -1,6 +1,6 @@
 import cli_box
 import sys
-from functions import game
+from qgfunctions import game
 
 affirmative_responses = ['yes', 'y', 'why not', 'sure', 'i do', 'ya']
 negative_responses = ['no', 'n', 'nope', 'nah', 'i dont', 'i do not', "i don't"]
