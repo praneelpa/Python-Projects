@@ -21,9 +21,9 @@ This repository aims to provide a wide range of coding projects to cater to deve
 
 ### Beginner Projects
 
-1. **Quiz Game**
+1. **Number Guess Game**
 
-2. **TBA**
+2. **Quiz Game**
 
 3. **TBA**
 
