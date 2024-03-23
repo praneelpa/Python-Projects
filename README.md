@@ -25,7 +25,7 @@ This repository aims to provide a wide range of coding projects to cater to deve
 
 2. **Quiz Game**
 
-3. **TBA**
+3. **Rock, Paper, Scissors**
 
 4. **TBA**
 
